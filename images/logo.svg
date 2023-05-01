@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="-168.23527"
+       y="300.75957"
+       width="541.17367"
+       height="485.92229"
+       id="rect2050" />
+    <rect
+       x="-220.82492"
+       y="236.77077"
+       width="547.88191"
+       height="545.82397"
+       id="rect2044" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#3de2b3;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stop-color:#000000"
+       id="rect235"
+       width="1024"
+       height="1024"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:10px;fill:#ffffff;fill-opacity:1"
+       x="-288.76443"
+       y="270.12994"
+       id="text2040"><tspan
+         id="tspan2038"
+         x="-288.76443"
+         y="270.12994" /></text>
+    <text
+       xml:space="preserve"
+       id="text2042"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:10px;white-space:pre;shape-inside:url(#rect2044);display:inline"><tspan
+         x="-220.82422"
+         y="273.16649"
+         id="tspan2844">skssksk
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2048"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:10px;white-space:pre;shape-inside:url(#rect2050);display:inline;fill:#803e40;fill-opacity:1;stroke-width:0.122281"
+       transform="matrix(8.1778131,0,0,8.1778131,1545.4663,-2373.4781)"><tspan
+         x="-168.23438"
+         y="340.95977"
+         id="tspan2850"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan2846">나무</tspan><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan2848">
+</tspan></tspan><tspan
+         x="-168.23438"
+         y="394.76476"
+         id="tspan2854"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan2852">위키</tspan></tspan></text>
+    <circle
+       style="display:none;fill:#9e4255;fill-opacity:0.724501;stroke:none;stroke-width:2.93565;stroke-linecap:square;stop-color:#000000"
+       id="path2156"
+       cx="689.61774"
+       cy="-385.48566"
+       r="150.30544"
+       transform="matrix(3.4063971,0,0,3.4063971,-1837.1119,1825.1172)" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:36.4321;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M -263.02993,-280.59371 H 743.07943"
+       id="path2325"
+       transform="matrix(0.8234481,0,0,-0.8234481,279.12046,280.94564)" />
+  </g>
+</svg>

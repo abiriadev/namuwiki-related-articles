@@ -21,7 +21,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	// 	newtab: 'src/pages/newtab/index.html',
 	// },
 	icons: {
-		'128': 'icon-128.png',
+		'16': 'logo-16x16.png',
+		'32': 'logo-32x32.png',
+		'48': 'logo-48x48.png',
+		'128': 'logo-128x128.png',
 	},
 	content_scripts: [
 		{
