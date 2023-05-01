@@ -41,9 +41,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	web_accessible_resources: [
 		{
 			resources: [
-				'contentStyle.css',
-				'icon-128.png',
-				'icon-34.png',
+				'logo-16x16.png',
+				'logo-32x32.png',
+				'logo-48x48.png',
+				'logo-128x128.png',
 			],
 			matches: [],
 		},
