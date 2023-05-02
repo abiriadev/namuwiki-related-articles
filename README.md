@@ -4,7 +4,7 @@ Automatically display related items on every [Namuwiki](https://namu.wiki) artic
 
 ## Installation
 
-This is extension is not yet available in the Chrome store.
+This extension is not yet available in the Chrome Web Store.
 
 ### Manually install from CRX file
 
