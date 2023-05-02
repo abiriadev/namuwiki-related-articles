@@ -33,9 +33,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	content_scripts: [
 		{
 			matches: [
-				'http://*/*',
-				'https://*/*',
-				'<all_urls>',
+				// 'http://*/*',
+				// 'https://*/*',
+				// '<all_urls>',
+				'https://namu.wiki/w/*',
 			],
 			js: ['src/pages/content/index.js'],
 			css: ['contentStyle.css'],
