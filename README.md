@@ -1,6 +1,6 @@
 # Namuwiki Related Articles :deciduous_tree::arrow_right:
 
-Automatically display related items on every [Namuwiki](namu.wiki) article page on the sidebar in order of their most mentioned occurrence.
+Automatically display related items on every [Namuwiki](https://namu.wiki) article page on the sidebar in order of their most mentioned occurrence.
 
 ## Installation
 
