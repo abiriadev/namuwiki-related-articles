@@ -4,11 +4,28 @@ Automatically display related items on every [Namuwiki](https://namu.wiki) artic
 
 ## Installation
 
-This is extension is not yet available in Chrome store.
+This is extension is not yet available in the Chrome store.
+
+### Manually install from CRX file
+
+> **Warning** \
+> This method may not work on Windows. \
+> Try [Manually install from ZIP file](#manually-install-from-zip-file) instead.
+
+1. Go to the [Releases page](https://github.com/abiriadev/namuwiki-related-articles/releases) and download the latest `namuwiki_related_articles.crx` file.
+2. Go to the `chrome://extensions` page and turn on 'Developer mode' at the top right corner.
+3. Darg-and-drop the downloaded CRX file. It will be loaded directly. If you see any warning, try the method below instead.
+
+### Manually install from ZIP file
+
+1. Go to the [Releases page](https://github.com/abiriadev/namuwiki-related-articles/releases) and download the latest `namuwiki_related_articles.zip` file. Extract it to a location where you can find it easily.
+2. Go to the `chrome://extensions` page and turn on 'Developer mode' at the top right corner.
+   ![](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/BzVElZpUtNE4dueVPSp3.png?auto=format&w=741)
+4. Click 'Load unpacked' button and select the extracted directory.
 
 ### Manually build
 
-1. Clone this repository
+1. Clone this repository.
 	```sh
 	$ git clone https://github.com/abiriadev/namuwiki-related-articles
 	$ cd namuwiki-related-articles
@@ -17,15 +34,15 @@ This is extension is not yet available in Chrome store.
 		```sh
 		$ corepack enable
 		```
-1. Install NPM dependencies
+1. Install NPM dependencies.
 	```sh
 	$ pnpm install
 	```
-3. Build extension
+3. Build the extension.
 	```sh
 	$ pnpm build
 	```
-4. Go to `chrome://extensions` page and make sure you have enabled developer mode. then click 'Load unpacked' button and select the `/dist` directory.
+4. Go to the `chrome://extensions` page, ensure you have enabled developer mode, then click 'Load unpacked' button and select the `/dist` directory.
 
 ## Screenshots
 
