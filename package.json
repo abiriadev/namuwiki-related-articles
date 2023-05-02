@@ -1,12 +1,13 @@
 {
 	"name": "namuwiki-related-articles",
 	"displayName": "Namuwiki Related Articles",
-	"version": "1.1.0",
-	"description": "A simple chrome extension template with Vite, React, TypeScript and Tailwind CSS.",
+	"version": "0.1.0",
+	"description": "Show related articles on every Namuwiki page at the sidebar",
+	"author": "Abiria <oro3673@gmail.com>",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JohnBra/web-extension.git"
+		"url": "https://github.com/abiriadev/namuwiki-related-articles.git"
 	},
 	"scripts": {
 		"build": "vite build",

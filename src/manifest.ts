@@ -6,6 +6,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	name: pkg.displayName,
 	version: pkg.version,
 	description: pkg.description,
+	// author: {
+	// 	email: 'oro3673@gmail.com',
+	// },
+	author: 'Abiria',
 	// options_ui: {
 	// 	page: 'src/pages/options/index.html',
 	// },
