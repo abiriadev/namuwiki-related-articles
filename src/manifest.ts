@@ -45,6 +45,7 @@ const manifest: Manifest.WebExtensionManifest = {
 				'logo-32x32.png',
 				'logo-48x48.png',
 				'logo-128x128.png',
+				'contentStyle.css',
 			],
 			matches: [],
 		},

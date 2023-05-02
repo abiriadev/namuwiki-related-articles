@@ -59,12 +59,14 @@ const render = (scores: Score[]) =>
 	tagc(
 		'div',
 		[
-			tag('h2', 'Related Articles'),
+			tag('h2', 'Related Articles', {
+				class: 'related-articles-text',
+			}),
 			tagc('table', [
 				tagc('thead', [
 					tagc('tr', [
 						tag('td', 'Total'),
-						tag('td', scores.length.toString()),
+						tag('td', scores.length + ''),
 					]),
 				]),
 				tagc(
@@ -76,7 +78,9 @@ const render = (scores: Score[]) =>
 									name,
 								)}`,
 							}),
-							tag('td', count.toString()),
+							tag('td', count + '', {
+								class: 'related-articles-text',
+							}),
 						]),
 					),
 				),
