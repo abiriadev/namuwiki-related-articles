@@ -41,6 +41,7 @@ This is extension is not yet available in Chrome store.
 	- [ ] Allow users to configure how many items to show
 	- [ ] Allow users to configure to show only items mentioned more than a specified amount
 	- [ ] Show/Hide button or make UI foldable
+- [ ] Support board pages
 - [ ] Familiar design
 	- [ ] Displays items even when the users have turned off the sidebar
 	- [ ] Support other skins other than Senkawa
