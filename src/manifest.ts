@@ -25,10 +25,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	// 	newtab: 'src/pages/newtab/index.html',
 	// },
 	icons: {
-		'16': 'logo-16x16.png',
-		'32': 'logo-32x32.png',
-		'48': 'logo-48x48.png',
-		'128': 'logo-128x128.png',
+		'16': './icons/logo-16x16.png',
+		'32': './icons/logo-32x32.png',
+		'48': './icons/logo-48x48.png',
+		'128': './icons/logo-128x128.png',
 	},
 	content_scripts: [
 		{
@@ -45,10 +45,10 @@ const manifest: Manifest.WebExtensionManifest = {
 	web_accessible_resources: [
 		{
 			resources: [
-				'logo-16x16.png',
-				'logo-32x32.png',
-				'logo-48x48.png',
-				'logo-128x128.png',
+				'./icons/logo-16x16.png',
+				'./icons/logo-32x32.png',
+				'./icons/logo-48x48.png',
+				'./icons/logo-128x128.png',
 				'contentStyle.css',
 			],
 			matches: [],
