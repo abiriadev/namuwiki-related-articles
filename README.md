@@ -21,7 +21,7 @@ This is extension is not yet available in the Chrome store.
 1. Go to the [Releases page](https://github.com/abiriadev/namuwiki-related-articles/releases) and download the latest `namuwiki_related_articles.zip` file. Extract it to a location where you can find it easily.
 2. Go to the `chrome://extensions` page and turn on 'Developer mode' at the top right corner.
    ![](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/BzVElZpUtNE4dueVPSp3.png?auto=format&w=741)
-4. Click 'Load unpacked' button and select the extracted directory.
+3. Click 'Load unpacked' button and select the extracted directory.
 
 ### Manually build
 
