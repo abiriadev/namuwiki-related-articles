@@ -8,7 +8,7 @@ This extension is not yet available in the Chrome Web Store.
 
 ### Manually install from CRX file
 
-> **Warning** \
+> [!WARNING]\
 > This method may not work on Windows. \
 > Try [Manually install from ZIP file](#manually-install-from-zip-file) instead.
 
